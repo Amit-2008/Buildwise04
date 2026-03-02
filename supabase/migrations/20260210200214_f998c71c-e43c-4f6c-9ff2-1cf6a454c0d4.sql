@@ -1,0 +1,1 @@
+ALTER TABLE public.estimations ADD COLUMN name text DEFAULT NULL;
